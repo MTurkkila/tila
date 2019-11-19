@@ -6,3 +6,6 @@ Tieteellistä laskentaa Pythonilla
 Suora linkki
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MTurkkila/tila/master?filepath=tila.ipynb)
+
+
+https://mybinder.org/v2/gh/MTurkkila/tila/master?filepath=tila.ipynb
